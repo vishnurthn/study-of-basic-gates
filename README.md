@@ -1,5 +1,5 @@
 ### study-of-basic-gates
-# DATE:09/12/2024
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -67,8 +67,8 @@ Y= A⊕B
 Program for logic gates and verify its truth table in quartus using Verilog programming
 Developed by: Vishnu Rathan B
 RegisterNumber: 24001855
- 
-
+ ```
+```
 module log_gat(a,b,c1,c2,c3,c4,c5,c6,c7);
 input a,b;
 output c1,c2,c3,c4,c5,c6,c7;
